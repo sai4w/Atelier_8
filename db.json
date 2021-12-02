@@ -1,0 +1,22 @@
+{
+  "skins": [
+    {
+      "idSkin": 1,
+      "nomSkin": "PC Asus",
+      "prixSkin": 3000.6,
+      "dateCreation": "01/14/2011"
+    },
+    {
+      "idSkin": 2,
+      "nomSkin": "Imprimante Epson",
+      "prixSkin": 450.5,
+      "dateCreation": "12/17/2010"
+    },
+    {
+      "idSkin": 3,
+      "nomSkin": "Tablette Samsung",
+      "prixSkin": 900.123,
+      "dateCreation": "02/20/2020"
+    }
+  ]
+}
